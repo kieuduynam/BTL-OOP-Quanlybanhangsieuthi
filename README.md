@@ -41,7 +41,8 @@
      - **Mục Thống kê hóa đơn** để xem các hóa đơn đã tạo.
 
 ## Các thành viên nhóm
-- Nguyễn Văn Quang
+- Nguyễn Văn Quang MSV: 23011955
+- Kiều Duy Nam MSV: 21011000
 
 ## Tài nguyên
 - Link GitHub: https://github.com/kieuduynam/BTL-OOP-Quanlybanhangsieuthi.git
